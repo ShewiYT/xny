@@ -32,7 +32,7 @@ import Icon28MoreHorizontal from '@vkontakte/icons/dist/28/more_horizontal';
 import Icon24Linked from '@vkontakte/icons/dist/24/linked';
 
 /* Server URL */
-const server = 'https://vk-coin-faucet.herokuapp.com';
+const server = 'https://zcash-vkcoin.herokuapp.com';
 // const server = 'http://localhost';
 
 const App = () => {
